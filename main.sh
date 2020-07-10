@@ -8,4 +8,5 @@ echo "/_/   \_\ .__/| .__/|_|  \___/ \_/ \___|_|  |___/"
 echo "        |_|   |_|                                "
 
 echo "Higuchi Ichiyo"
+sleep 20
 exit 0
